@@ -82,7 +82,3 @@ Caso nenhum desses índices retorne dados válidos (comum em algumas impressoras
 - Suporte a outros fabricantes além de Epson e Brother.
 - Dashboard web para visualização dos dados em tempo real.
 - Histórico de coletas (atualmente cada execução sobrescreve o CSV anterior).
-
-## 📄 Licença
-
-Defina aqui a licença do projeto (ex: MIT), caso deseje tornar o uso e a modificação explícitos para terceiros.
